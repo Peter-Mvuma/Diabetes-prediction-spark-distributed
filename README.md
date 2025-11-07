@@ -64,8 +64,8 @@ These features are consistent with established clinical risk factors for diabete
 | `dt_classifier_report.py` | PySpark code for Decision Tree training and evaluation |
 | `Small_Project3_Report.pdf` | Final project report with results and discussion |
 | `roc_dt.png` | ROC curve visualization |
-| `diabetes_binary_health_indicators_BRFSS2015.csv` | Dataset (or Kaggle link) |
-| `results/metrics_output.txt` | Saved model metrics (optional) |
+| `diabetes_binary_health_indicators_BRFSS2015.csv` | Dataset|
+
 
 ## 🧑‍💻 Author
 
